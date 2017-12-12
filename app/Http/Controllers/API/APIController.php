@@ -4,7 +4,6 @@ namespace App\Http\Controllers\API;
 
 use App\Http\Requests\BaseRequest;
 use App\Http\Resources\BaseResource;
-use App\Http\Resources\QuestionnaireResource;
 use App\Repositories\RepositoryAbstract;
 use App\Support\Resolver;
 use Illuminate\Http\Request;
